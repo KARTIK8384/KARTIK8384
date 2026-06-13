@@ -206,17 +206,16 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 ## 🛠️ Tools & Technologies
 
 - Languages:
-Verilog | SystemVerilog | UVM
-Python | Perl | C | C++
-Assembly
+Verilog | SystemVerilog | UVM    
+Python | Perl | C | C++ | Assembly   
 
 - Technologies:
-Quartus Prime | Xilinx Vivado | ModelSim  
-Cadence Virtuoso | IMC | Xcelium  
-Synopsys Design Compiler  
-SPICE | Altium Designer | KiCad
-Linux | Git 
-MATLAB | Silvaco TCAD
+Quartus Prime | Xilinx Vivado | ModelSim    
+Cadence Virtuoso | IMC | Xcelium    
+Synopsys Design Compiler    
+SPICE | Altium Designer | KiCad      
+Linux | Git    
+MATLAB | Silvaco TCAD    
 
 ---
 
