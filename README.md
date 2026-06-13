@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Kartik Thakare
 
-🎓 MS in Electrical Engineering @ Rochester Institute of Technology  
-🔬 RTL Design | ASIC Verification | FPGA Prototyping | Physical Design  
-💻 Passionate about building high-performance digital systems from microarchitecture to silicon  
+ 🏢 Firmware Engineer Intern @ Skyworks Solutions, Inc.     
+ 🎓 MS in Electrical Engineering @ Rochester Institute of Technology  
+ 🔬 RTL Design | ASIC Verification | FPGA Prototyping | Physical Design  
+ 💻 Passionate about building high-performance digital systems from microarchitecture to silicon  
 
 ---
 
@@ -68,7 +69,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## 🖥️ 15-bit Pipelined Multicore RISC Processor
+## 🖥️ 15-bit Pipelined RISC Processor with 2-Way Set-Associative Cache and an Assembler
 
 - Designed 5-stage pipelined 15-bit CPU in Verilog
 - Implemented hazard handling, forwarding & control logic
@@ -82,7 +83,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## 🎧 Multi-Channel ADPCM Codec (ITU-T G.726 / G.711)
+## 🎧 Design & Verification of Multi-Channel ADPCM Codec (ITU-T G.726 / G.711)
 
 - Implemented 8-channel bit-serial APRSC architecture
 - Designed ACCUM / FMULT pipeline datapath
@@ -95,7 +96,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## ✅ ASIC Design Verification – RCC Block (DTMF Receiver)
+## ✅ ASIC Design Verification (UVM & SystemVerilog) – RCC Block of DTMF Receiver
 
 - Built complete UVM verification environment
 - Agent, driver, monitor, scoreboard architecture
@@ -108,7 +109,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## 🧠 Parameterized RTL Code & Testbench Generator
+## 🧠 Parameterized RTL Code & Testbench Generator Using Perl & Python
 
 - Developed configurable RTL generator using Perl & Python
 - Automated multi-stage pipeline register generation
@@ -128,7 +129,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## 🧱 Memory Access Bus Arbiter & DTMF Receiver
+## 🧱 Memory Access Bus Arbiter & DTMF Receiver Design with Verilog HDL
 
 - Designed shared memory bus arbiter for TDSP–DMA access
 - Integrated with DTMF receiver core
@@ -159,7 +160,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 ---
 
-## 🏸 Embedded AI Motion Tracking System (Patent Published)
+## 🏸 A System and Process for Identifying and Tracking Movements of a Badminton Player (Patent Published)
 
 - Co-developed dual-wearable IMU tracking system
 - Raspberry Pi Pico W + MPU6050 sensors
@@ -175,28 +176,47 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 # 🏢 Experience
 
+### Embedded Firmware Engineer Intern – Skyworks Solutions, Inc.
+- Jun 2026 - Present
+- Hillsboro, Oregon
+
 ### Graduate Research Assistant – RIT
-- Applied electromagnetic theory & transmission line concepts
-- Developed hardware-focused technical documentation
+- Aug 2025 - May 2026
+- Rochester, New York
+  - Applied electromagnetic theory & transmission line concepts
+  - Developed hardware-focused technical documentation
 
 ### Laboratory Assistant – RIT
-- Hardware bring-up & debugging
-- Oscilloscopes, logic analyzers, power supplies
-- Lab equipment calibration & validation
+- May 2025 - May 2026
+- Rochester, New York
+  - Hardware bring-up & debugging
+  - Oscilloscopes, logic analyzers, power supplies
+  - Lab equipment calibration & validation
 
 ### Systems Engineer – Tata Consultancy Services
-- Linux/Oracle enterprise systems
-- Production deployments & performance optimization
+- Oct 2023 - Jun 2024
+- Mumbai, Maharashtra, India
+  - Linux/Oracle enterprise systems
+  - Production deployments & performance optimization
+  - SAP BASIS Administration
+  - Java WebDynpro Development
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+- Languages:
+Verilog | SystemVerilog | UVM
+Python | Perl | C | C++
+Assembly
+
+- Technologies:
+Quartus Prime | Xilinx Vivado | ModelSim  
 Cadence Virtuoso | IMC | Xcelium  
 Synopsys Design Compiler  
-Quartus Prime | Vivado | ModelSim  
-SPICE | Altium  
-Linux | Git  
+SPICE | Altium Designer | KiCad
+Linux | Git 
+MATLAB | Silvaco TCAD
 
 ---
 
