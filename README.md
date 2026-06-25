@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Thakare
 
- 🏢 Firmware Engineer Intern @ Skyworks Solutions, Inc.     
+ 🏢 Firmware Engineer Intern (Co-Op) @ Skyworks Solutions, Inc.     
  🎓 MS in Electrical Engineering @ Rochester Institute of Technology  
  🔬 RTL Design | ASIC Verification | FPGA Prototyping | Physical Design  
  💻 Passionate about building high-performance digital systems from microarchitecture to silicon  
@@ -176,7 +176,7 @@ Verilog | SystemVerilog | C | C++ | Python | Perl | Assembly | MicroPython
 
 # 🏢 Experience
 
-### Embedded Firmware Engineer Intern – Skyworks Solutions, Inc.
+### Embedded Firmware Engineer Intern (Co-Op) – Skyworks Solutions, Inc.
 - Jun 2026 - Present
 - Hillsboro, Oregon
 
